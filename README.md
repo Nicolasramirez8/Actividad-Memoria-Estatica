@@ -28,4 +28,4 @@ Este proyecto implementa un mini-sistema de registro de calificaciones en **Pyth
 ### Instrucciones
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/Elijah-RCO/Actividad-Memoria-Est-tica.git
+    https://github.com/Nicolasramirez8/Actividad-Memoria-Estatica.git
